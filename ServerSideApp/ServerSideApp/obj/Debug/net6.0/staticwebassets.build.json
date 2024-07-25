@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "4CFkK/KezS5TjvZXL401FA5IhlbLhC7k3ODuiiiXoR8=",
+  "Source": "ServerSideApp",
+  "BasePath": "_content/ServerSideApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ServerSideApp\\wwwroot",
+      "Source": "ServerSideApp",
+      "ContentRoot": "C:\\Users\\sgoncalves.CARACAS\\Desktop\\ServerSideApp\\ServerSideApp\\wwwroot\\",
+      "BasePath": "_content/ServerSideApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\sgoncalves.CARACAS\\Desktop\\ServerSideApp\\ServerSideApp\\wwwroot\\css\\site.css",
+      "SourceId": "ServerSideApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sgoncalves.CARACAS\\Desktop\\ServerSideApp\\ServerSideApp\\wwwroot\\",
+      "BasePath": "_content/ServerSideApp",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sgoncalves.CARACAS\\Desktop\\ServerSideApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5264BEC-BF89-48FF-B55B-97D9C0A4CD1D}|ServerSideApp\\ServerSideApp.csproj|c:\\users\\sgoncalves.caracas\\desktop\\serversideapp\\serversideapp\\predefinedreports\\testexportreport.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form",
+      "RelativeMoniker": "D:0:0:{C5264BEC-BF89-48FF-B55B-97D9C0A4CD1D}|ServerSideApp\\ServerSideApp.csproj|solutionrelative:serversideapp\\predefinedreports\\testexportreport.cs||{95027D70-C6B4-4736-8A48-AD3582187321}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5264BEC-BF89-48FF-B55B-97D9C0A4CD1D}|ServerSideApp\\ServerSideApp.csproj|c:\\users\\sgoncalves.caracas\\desktop\\serversideapp\\serversideapp\\controllers\\reportingcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5264BEC-BF89-48FF-B55B-97D9C0A4CD1D}|ServerSideApp\\ServerSideApp.csproj|solutionrelative:serversideapp\\controllers\\reportingcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5264BEC-BF89-48FF-B55B-97D9C0A4CD1D}|ServerSideApp\\ServerSideApp.csproj|c:\\users\\sgoncalves.caracas\\desktop\\serversideapp\\serversideapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5264BEC-BF89-48FF-B55B-97D9C0A4CD1D}|ServerSideApp\\ServerSideApp.csproj|solutionrelative:serversideapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5264BEC-BF89-48FF-B55B-97D9C0A4CD1D}|ServerSideApp\\ServerSideApp.csproj|c:\\users\\sgoncalves.caracas\\desktop\\serversideapp\\serversideapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5264BEC-BF89-48FF-B55B-97D9C0A4CD1D}|ServerSideApp\\ServerSideApp.csproj|solutionrelative:serversideapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5264BEC-BF89-48FF-B55B-97D9C0A4CD1D}|ServerSideApp\\ServerSideApp.csproj|c:\\users\\sgoncalves.caracas\\desktop\\serversideapp\\serversideapp\\services\\customreportstoragewebextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5264BEC-BF89-48FF-B55B-97D9C0A4CD1D}|ServerSideApp\\ServerSideApp.csproj|solutionrelative:serversideapp\\services\\customreportstoragewebextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5264BEC-BF89-48FF-B55B-97D9C0A4CD1D}|ServerSideApp\\ServerSideApp.csproj|c:\\users\\sgoncalves.caracas\\desktop\\serversideapp\\serversideapp\\services\\customsqldataconnectionproviderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5264BEC-BF89-48FF-B55B-97D9C0A4CD1D}|ServerSideApp\\ServerSideApp.csproj|solutionrelative:serversideapp\\services\\customsqldataconnectionproviderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 4099,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportingControllers.cs",
+              "DocumentMoniker": "C:\\Users\\sgoncalves.CARACAS\\Desktop\\ServerSideApp\\ServerSideApp\\Controllers\\ReportingControllers.cs",
+              "RelativeDocumentMoniker": "ServerSideApp\\Controllers\\ReportingControllers.cs",
+              "ToolTip": "C:\\Users\\sgoncalves.CARACAS\\Desktop\\ServerSideApp\\ServerSideApp\\Controllers\\ReportingControllers.cs",
+              "RelativeToolTip": "ServerSideApp\\Controllers\\ReportingControllers.cs",
+              "ViewState": "AQIAABoAAACAAQAAAAAfwB8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:47:22.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomSqlDataConnectionProviderFactory.cs",
+              "DocumentMoniker": "C:\\Users\\sgoncalves.CARACAS\\Desktop\\ServerSideApp\\ServerSideApp\\Services\\CustomSqlDataConnectionProviderFactory.cs",
+              "RelativeDocumentMoniker": "ServerSideApp\\Services\\CustomSqlDataConnectionProviderFactory.cs",
+              "ToolTip": "C:\\Users\\sgoncalves.CARACAS\\Desktop\\ServerSideApp\\ServerSideApp\\Services\\CustomSqlDataConnectionProviderFactory.cs",
+              "RelativeToolTip": "ServerSideApp\\Services\\CustomSqlDataConnectionProviderFactory.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:59:42.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomReportStorageWebExtension.cs",
+              "DocumentMoniker": "C:\\Users\\sgoncalves.CARACAS\\Desktop\\ServerSideApp\\ServerSideApp\\Services\\CustomReportStorageWebExtension.cs",
+              "RelativeDocumentMoniker": "ServerSideApp\\Services\\CustomReportStorageWebExtension.cs",
+              "ToolTip": "C:\\Users\\sgoncalves.CARACAS\\Desktop\\ServerSideApp\\ServerSideApp\\Services\\CustomReportStorageWebExtension.cs",
+              "RelativeToolTip": "ServerSideApp\\Services\\CustomReportStorageWebExtension.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:59:37.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestExportReport.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sgoncalves.CARACAS\\Desktop\\ServerSideApp\\ServerSideApp\\PredefinedReports\\TestExportReport.cs",
+              "RelativeDocumentMoniker": "ServerSideApp\\PredefinedReports\\TestExportReport.cs",
+              "ToolTip": "C:\\Users\\sgoncalves.CARACAS\\Desktop\\ServerSideApp\\ServerSideApp\\PredefinedReports\\TestExportReport.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ServerSideApp\\PredefinedReports\\TestExportReport.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:52:10.835Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sgoncalves.CARACAS\\Desktop\\ServerSideApp\\ServerSideApp\\Program.cs",
+              "RelativeDocumentMoniker": "ServerSideApp\\Program.cs",
+              "ToolTip": "C:\\Users\\sgoncalves.CARACAS\\Desktop\\ServerSideApp\\ServerSideApp\\Program.cs",
+              "RelativeToolTip": "ServerSideApp\\Program.cs",
+              "ViewState": "AQIAABsAAACAmpmZmZkOwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T18:34:36.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sgoncalves.CARACAS\\Desktop\\ServerSideApp\\ServerSideApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ServerSideApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\sgoncalves.CARACAS\\Desktop\\ServerSideApp\\ServerSideApp\\appsettings.json",
+              "RelativeToolTip": "ServerSideApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T15:47:34.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
